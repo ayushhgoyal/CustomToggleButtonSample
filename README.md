@@ -2,6 +2,6 @@ These toggle buttons are inspired from iOS.
 
 This is how it looks: 
 
-![alt tag](http://www.gfycat.com/WiltedFluidDesertpupfish)
+![alt tag](http://zippy.gfycat.com/WiltedFluidDesertpupfish.gif)
 
 
